@@ -425,17 +425,21 @@
     "top_level_sheets": [
       {
         "filename": "rf_transmitter-receiver_morse_code.kicad_sch",
-        "name": "rf_transmitter-receiver_morse_code",
+        "name": "Transmitter",
         "uuid": "1fe6fbd5-5c8e-4a51-ad0a-411787808466"
       }
     ],
-    "used_designators": "U1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
       "1fe6fbd5-5c8e-4a51-ad0a-411787808466",
-      "rf_transmitter-receiver_morse_code"
+      "Transmitter"
+    ],
+    [
+      "f7db3f04-b5be-4e9a-8b03-0f1522988f1c",
+      "Receiver"
     ]
   ],
   "text_variables": {},
